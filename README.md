@@ -1,42 +1,155 @@
-# 📊 Análise de Dados – Projeto Acadêmico
+# 📊 Portfólio de Análise de Dados — Projetos Acadêmicos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-EDA-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-9cf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Graphs-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter"/>
+</p>
+
+---
+
+## 📌 Sobre este Portfólio
+
+Este repositório reúne **projetos acadêmicos de Análise de Dados desenvolvidos em Python**, com foco em:
+
+- Exploração de dados (EDA)
+- Limpeza e tratamento de dados
+- Visualização gráfica
+- Extração de insights
+- Interpretação de padrões estatísticos
+
+---
+
+# 📁 Projetos Incluídos
+
+---
+
+# 📊 1. State of Data Brasil 2023 — Análise de Profissionais de Dados
 
 ## 📌 Sobre o Projeto
-Este projeto foi desenvolvido como parte da disciplina de **Análise de Dados**, ministrada pelo professor **Isaac Elgrably**.
 
-O objetivo principal é explorar, analisar e extrair insights a partir de um conjunto de dados utilizando ferramentas de análise em Python.
-
----
-
-## 🗂️ Estrutura do Repositório
-
-- `proj_5.ipynb` → Notebook contendo todo o código, análises e visualizações  
-- `BRAZIL_CITIES.csv` → Base de dados utilizada no projeto  
+Análise exploratória da base **State of Data Brasil 2023**, com foco no perfil de profissionais da área de dados no Brasil.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## 🧰 Tecnologias
 
 - Python 🐍  
-- Jupyter Notebook  
+- Pandas 📊  
+- Matplotlib 📈  
+- Seaborn 🌊  
+- Jupyter Notebook 📓  
+
+---
+
+## 📈 Principais Análises
+
+### 📊 Distribuição Etária por Profissão e Fatores Demográficos
+
+<p align="center">
+  <img src="COLE_AQUI_IMAGEM_1_STATE_OF_DATA" width="700">
+</p>
+
+---
+
+### 👥 Distribuição por Gênero
+
+<p align="center">
+  <img src="COLE_AQUI_IMAGEM_2_STATE_OF_DATA" width="700">
+</p>
+
+---
+
+### 🎨 Distribuição por Etnia
+
+<p align="center">
+  <img src="COLE_AQUI_IMAGEM_3_STATE_OF_DATA" width="700">
+</p>
+
+---
+
+## 🔎 Insights do Projeto
+
+- Maioria dos profissionais está em faixa etária jovem  
+- Diferenças entre gênero em áreas específicas  
+- Baixa representatividade em alguns grupos étnicos  
+- Formação acadêmica influencia diretamente na área de atuação  
+
+---
+
+# 📍 2. Análise de Dados — Projeto Acadêmico (BRAZIL CITIES)
+
+## 📌 Sobre o Projeto
+
+Projeto desenvolvido para a disciplina de **Análise de Dados**, ministrada pelo professor Isaac Elgrably.
+
+O objetivo é explorar e analisar dados utilizando técnicas de análise exploratória em Python.
+
+---
+
+## 🗂️ Estrutura
+
+📁 projeto-analise-dados 
+┣ 📓 proj_5.ipynb 
+┣ 📄 BRAZIL_CITIES.csv 
+┗ 📄 README.md
+
+---
+
+## ⚙️ Tecnologias
+
+- Python 🐍  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
+- Jupyter Notebook  
 
 ---
 
-## 📈 O que foi feito
+## 📈 Etapas do Projeto
 
-- Importação e tratamento dos dados  
-- Limpeza de dados (data cleaning)  
+### 🔹 1. Importação dos dados  
+### 🔹 2. Limpeza e tratamento  
+### 🔹 3. Análise exploratória (EDA)  
+### 🔹 4. Visualização de dados  
+### 🔹 5. Extração de insights  
+
+---
+
+## 📊 Resultados
+
+- Identificação de padrões relevantes  
+- Melhor compreensão dos dados  
+- Visualizações interpretáveis  
+- Insights estatísticos importantes  
+
+---
+
+# 🚀 Conclusão Geral do Portfólio
+
+Este portfólio demonstra habilidades em:
+
+- Manipulação de dados com Python  
 - Análise exploratória (EDA)  
-- Criação de gráficos e visualizações  
-- Extração de insights relevantes  
+- Visualização de dados  
+- Interpretação de padrões  
+- Organização de projetos de dados  
 
 ---
 
-## ▶️ Como Executar o Projeto
+## 👨‍💻 Autor
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+Projeto desenvolvido para fins acadêmicos na área de **Ciência e Análise de Dados**.
+
+---
+
+## ⭐ Possíveis Expansões
+
+- Machine Learning 🤖  
+- Dashboards interativos (Streamlit / Power BI) 📊  
+- Análises estatísticas avançadas 📉
+
+
