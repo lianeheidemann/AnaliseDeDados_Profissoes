@@ -1,6 +1,6 @@
 # 📊 Portfólio de Análise de Dados — Projetos Acadêmicos
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-EDA-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%26%20Seaborn-yellow?style=for-the-badge"/>
